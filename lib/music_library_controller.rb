@@ -50,7 +50,7 @@ class MusicLibraryController
         end
       end
 
-      def list_songs_by_artist(name)
+      def list_songs_by_artist(artist_name)
 
       end
 
